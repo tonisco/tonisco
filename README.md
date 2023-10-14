@@ -6,7 +6,7 @@
 
 <h1 align="center">About Me</h1>
 <h3>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.</h3>
-<li>🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.</li>
+<li>🔭 I’m full stack a Software Engineer and love contributing to frontend and backend web and mobile applications.</li>
 <li>🌱 I am currently learning GO</li>
 <li>👯 I’m looking to work or collaborate on Projects</li>
 <li>💬 Ask me anything 😉 </li>
